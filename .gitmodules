@@ -1,0 +1,3 @@
+[submodule "spring-cloud-microservices/bigmall-eureka"]
+	path = spring-cloud-microservices/bigmall-eureka
+	url = git@github.com:TinMok/bigmall-eureka.git
